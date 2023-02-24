@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Resistor Color
 
 Welcome to Resistor Color on Exercism's Rust Track.
